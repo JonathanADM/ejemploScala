@@ -1,0 +1,11 @@
+[debug] Packaging D:\Users\Jonaa\Documents\INTEC\Trimestre#8\po\target\scala-2.13\po_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	HolaMundo$.class
+[debug] 	  D:\Users\Jonaa\Documents\INTEC\Trimestre#8\po\target\scala-2.13\classes\HolaMundo$.class
+[debug] 	HolaMundo.class
+[debug] 	  D:\Users\Jonaa\Documents\INTEC\Trimestre#8\po\target\scala-2.13\classes\HolaMundo.class
+[debug] 	WD.txt
+[debug] 	  D:\Users\Jonaa\Documents\INTEC\Trimestre#8\po\target\scala-2.13\classes\WD.txt
+[debug] 	wordlist.txt
+[debug] 	  D:\Users\Jonaa\Documents\INTEC\Trimestre#8\po\target\scala-2.13\classes\wordlist.txt
+[debug] Done packaging.
